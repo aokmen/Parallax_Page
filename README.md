@@ -1,6 +1,6 @@
 # Parallax Page
 ## Description
-Project aims to create parallx website
+### Project aims to create parallx website
 ---
 ## Project
 ![Parallax](./img/gif.gif)
