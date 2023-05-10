@@ -5,7 +5,7 @@ Project aims to create parallx website
 ## Project
 ![Parallax](./img/gif.gif)
 
-## Visit: https://aokmen.github.io/Nike_UI_Lading_Page
+## Visit: https://aokmen.github.io/Parallax_Page
 
 ## Project Skeleton
 ```
